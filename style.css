@@ -1,0 +1,8 @@
+.banner {
+    background-image: url("hthlandscape.png");
+    background-size: fill;
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+    font-size: 100px;
+    text-align: center;
+}
